@@ -7,10 +7,11 @@
 body{
     background-color: lightblue;
 }
-.headset-img{
+.work-img{
     float: left;
     margin-right: 20px;
 }
-.headset-text{
+.work-text{
     margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
